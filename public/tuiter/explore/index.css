@@ -1,0 +1,146 @@
+.wd-background{
+    background-color: black;
+
+}
+
+.wd-border-color{
+    color: rgb(47, 51, 54);
+}
+.wd-search-bar{
+    background-color: darkgray;
+    color: white;
+    border-radius: 30px;
+    width: 90%;
+    height: 25px;
+}
+
+.wd-twitter-blue {
+    color: rgb(29,161,242);
+}
+.wd-highlighted-link{
+    font-size: 15px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+.wd-link{
+    color: rgb(110,118,125);
+    font-size: 15px;
+    font-family: Arial;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.wd-topic{
+    font-size: 13px;
+    color: rgb(110,118,125);
+}
+.wd-padded-left {
+    padding-left: 16px;
+}
+.wd-padded-right {
+    padding-right: 16px;
+}
+
+.wd-padded-right-image {
+    padding-right: 116px;
+}
+
+.wd-link-padding {
+    padding: 16px;
+}
+
+.wd-trending{
+    color: rgb(110,118,125);
+    font-size: 13px;
+    font-family: Arial;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.wd-author{
+    color: white;
+    font-size: 13px;
+    font-family: Arial;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.wd-title{
+    color: white;
+    font-size: 16px;
+    font-family: Arial;
+
+}
+
+.wd-title-image{
+    color: white;
+    font-size: 16px;
+    font-family: Arial;
+    position: relative;
+    bottom: 95px;
+
+}
+.wd-suggested-post-image{
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+.wd-gear-padding{
+    padding-right: 12px
+}
+
+
+.wd-grid-row {
+    clear: both;
+}
+.wd-suggested-post {
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.wd-float-right {
+    float: right;
+}
+
+.wd-explore-settings {
+    float:right;
+    padding-right: 12px;
+    font-size: 25px;
+}
+
+.wd-border-highlight-bottom{
+    border-style: solid;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-bottom-width: 4px;
+    padding-bottom: 10px;
+}
+.wd-border-bottom-thick{
+    border-style: solid;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-bottom-width: 4px;
+}
+
+.wd-border-bottom-thin{
+    border-style: solid;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-bottom-width: 2px;
+}
+.wd-float-left{
+    float: left;
+}
+
+.wd-shifted-right{
+    position: relative;
+    left: 12px;
+}

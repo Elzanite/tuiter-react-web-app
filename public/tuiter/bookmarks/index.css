@@ -1,0 +1,144 @@
+.wd-background{
+    background-color: black;
+
+}
+
+.wd-border-color{
+    color: rgb(47, 51, 54);
+}
+
+.wd-bookmarks-title{
+    font-family: Arial;
+    font-size: 20px;
+    color: white;
+}
+
+.wd-handle-title{
+    font-family: Arial;
+    color: rgb(110,118,125);
+    font-size: 13px;
+}
+
+.wd-padded-left{
+    padding-left: 16px;
+}
+
+.wd-padded-right{
+    padding-right: 16px;
+}
+
+
+.wd-padded-top{
+    padding-top: 12px;
+}
+
+.wd-border-bottom-1px{
+    border-style: solid;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-bottom-width: 1px;
+    color: rgb(47, 51, 54);
+}
+
+.wd-grid-row {
+    clear: both;
+}
+
+.wd-avatar-image{
+    height: 48px;
+    width: 48px;
+    border-radius: 50%;
+}
+
+
+.wd-post-float{
+    float: left;
+    width: 80%;
+}
+.wd-post-author{
+    font-size: 15px;
+    color: white;
+    font-family: Arial;
+}
+
+.wd-post-handle{
+    font-size: 15px;
+    color: lightgray;
+    font-family: Arial;
+}
+
+.wd-post-date{
+    font-size: 15px;
+    color: lightgray;
+    font-family: Arial;
+}
+
+.wd-post-text-content{
+    font-size: 15px;
+    color: white;
+    font-family: Arial;
+    width: 506px;
+}
+
+.wd-post-image{
+    height: 264px;
+    width: 504px;
+    border-radius: 5% 5% 0px 0px;
+}
+
+.wd-post-image-text-border{
+    padding: 12px;
+    border-radius: 0% 0% 20px 20px;
+    border-width: 1px;
+    border-style: solid;
+    color: rgb(47, 51, 54);
+    width: 480px;
+}
+
+
+.wd-shifted-right{
+    position: relative;
+    left: 12px;
+}
+
+.wd-padded-left {
+    padding-left: 10px;
+}
+
+.wd-float-left{
+    float: left;
+}
+
+.wd-post-image-title{
+    font-size: 15px;
+    color: white;
+    font-family: Arial;
+}
+
+.wd-post-image-content{
+    font-size: 15px;
+    color: lightgray;
+    font-family: Arial;
+}
+
+.wd-icon{
+    color:lightgray;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.wd-icon-number{
+    padding-left: 12px;
+    color:lightgray;
+}
+.wd-icon-padding{
+    padding-left: 50px;
+}
+
+.wd-likes{
+    color:red;
+    display: inline-block;
+    text-decoration: none;
+}
+
